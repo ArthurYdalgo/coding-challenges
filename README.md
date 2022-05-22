@@ -4,5 +4,5 @@ This project contains multiple coding challenges that have no actual use in the 
 
 ## Challenges
 
-### On going
+### Finished
 - ASCII Video
